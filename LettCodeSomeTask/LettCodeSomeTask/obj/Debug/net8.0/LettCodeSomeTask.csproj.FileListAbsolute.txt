@@ -1,0 +1,5 @@
+C:\Github\LeetCodessssssssss\LettCode\LettCodeSomeTask\LettCodeSomeTask\obj\Debug\net8.0\LettCodeSomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\LeetCodessssssssss\LettCode\LettCodeSomeTask\LettCodeSomeTask\obj\Debug\net8.0\LettCodeSomeTask.AssemblyInfoInputs.cache
+C:\Github\LeetCodessssssssss\LettCode\LettCodeSomeTask\LettCodeSomeTask\obj\Debug\net8.0\LettCodeSomeTask.AssemblyInfo.cs
+C:\Github\LeetCodessssssssss\LettCode\LettCodeSomeTask\LettCodeSomeTask\obj\Debug\net8.0\LettCodeSomeTask.csproj.CoreCompileInputs.cache
+C:\Github\LeetCodessssssssss\LettCode\LettCodeSomeTask\LettCodeSomeTask\obj\Debug\net8.0\LettCodeSomeTask.sourcelink.json
