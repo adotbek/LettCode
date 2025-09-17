@@ -1,0 +1,15 @@
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.exe
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.deps.json
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.runtimeconfig.json
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.dll
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.pdb
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.AssemblyInfoInputs.cache
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.AssemblyInfo.cs
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.csproj.CoreCompileInputs.cache
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.sourcelink.json
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.dll
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\obj\Debug\net8.0\refint\FindTheDifference.dll
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.pdb
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.genruntimeconfig.cache
+C:\Github\LeetCodessssssssss\LettCode\FindTheDifference\FindTheDifference\obj\Debug\net8.0\ref\FindTheDifference.dll
